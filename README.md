@@ -156,7 +156,7 @@ Go to pgAdmin and run:
 
 ```sql
 INSERT INTO orders (customer_name, product_name, status)
-VALUES ('Alice', 'Laptop', 'pending');
+VALUES ('Sidharth', 'Mechanical Keyboard', 'pending');
 ```
 
 The client terminal will instantly display:
@@ -165,12 +165,13 @@ The client terminal will instantly display:
 --- Order Update Received ---
   Operation     : INSERT
   Order ID      : 1
-  Customer      : Alice
-  Product       : Laptop
+  Customer      : Sidharth
+  Product       : Mechanical Keyboard
   Status        : pending
   Updated At    : 2026-05-19T10:18:15.928603
 -----------------------------
 ```
+<img width="1874" height="672" alt="Sidharth Vijayan - apt submission" src="https://github.com/user-attachments/assets/aa05563f-7d5a-4803-872f-f62d4f5db914" />
 
 ---
 
